@@ -1,0 +1,2 @@
+# LAB 2
+   this contains HEADINGS, ORDERED LISTS and HTML ENTITIES
